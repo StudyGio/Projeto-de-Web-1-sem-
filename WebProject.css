@@ -1,0 +1,91 @@
+       body {
+
+           background-color: #E6F0FA;
+       }
+
+       h1 {
+           color: #6C63FF;
+           font-size: 25px;
+           font-weight: bolder;
+           text-align: justify;
+           font-family: Open Sans, sans-serif;
+       }
+
+       h2 {
+           color: #3333338a;
+           font-size: 30px;
+           font-family: Open Sans, sans-serif;
+           font-weight: bold;
+
+       }
+
+       .adalovelace {
+           background-color: #FFFFFF;
+           padding: 20px;
+           border-radius: 10px;
+           box-shadow: 0 4px 8px rgba(160, 87, 209, 0.5);
+           margin: 20px;
+           font-family: sans-serif;
+           font-size: 16px;
+           text-align: center;
+           box-sizing: border-box;
+       }
+
+       .margarethamilton {
+
+           background-color: #FFFFFF;
+           padding: 20px;
+           border-radius: 10px;
+           box-shadow: 0 4px 8px  rgba(160, 87, 209, 0.5);
+           margin: 20px;
+           font-family: sans-serif;
+           font-size: 16px;
+           text-align: center;
+       }
+
+       .katherinejohnson {
+
+           background-color: #FFFFFF;
+           padding: 20px;
+           border-radius: 10px;
+           box-shadow: 0 4px 8px  rgba(74, 0, 143, 0.5);
+           margin: 20px;
+           font-family: sans-serif;
+           font-size: 16px;
+           text-align: center;
+       }
+
+       .gracehopper {
+
+           background-color: #FFFFFF;
+           padding: 20px;
+           border-radius: 10px;
+           box-shadow: 0 4px 8px   rgba(74, 0, 143, 0.5);
+           margin: 20px;
+           font-family: sans-serif;
+           font-size: 16px;
+           text-align: center;
+       }
+
+       .radiaperlman {
+
+           background-color: #FFFFFF;
+           padding: 20px;
+           border-radius: 10px;
+           box-shadow: 0 4px 8px   rgba(74, 0, 143, 0.5);
+           font-family: sans-serif;
+           font-size: 16px;
+           text-align: center;
+       }
+
+       .contribuicoes {
+            background-color: #FFFFFF;
+            padding: 20px;
+            border: 3px solid rgb(213, 140, 247);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px  rgba(74, 0, 143, 0.5);
+            margin: 20px;
+            font-family: sans-serif;
+            font-size: 16px;
+            text-align: center;
+       }
